@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background: #333;
-    color: #90EE90;
+    background: #90EE90;
+    color: #fff;
     padding: 10px 20px;
 }
 
@@ -22,7 +22,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #90EE90;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -40,8 +40,8 @@ section {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #333;
-    color: #90EE90;
+    background: #90EE90;
+    color: #fff;
 }
 
 form {
@@ -63,7 +63,7 @@ form input, form textarea {
 form button {
     margin-top: 10px;
     padding: 10px;
-    background-color: #333;
+    background-color: #90EE90;
     color: white;
     border: none;
     border-radius: 5px;
