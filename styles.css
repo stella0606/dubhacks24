@@ -70,3 +70,8 @@ form button {
     border-radius: 5px;
     cursor: pointer;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
