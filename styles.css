@@ -75,4 +75,5 @@ img {
     max-width: 50%;
     height: auto;
     border: 2px solid #ccc;
+    margin: 0 auto;
 }
